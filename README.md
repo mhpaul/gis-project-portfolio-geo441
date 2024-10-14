@@ -13,6 +13,6 @@ McKenzie Paul
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/map-coordinates-basics/understanding-coordinates)
+- [Understanding map coordinates](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 
 
