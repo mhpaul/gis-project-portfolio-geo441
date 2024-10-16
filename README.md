@@ -15,4 +15,5 @@ McKenzie Paul
 
 - [Understanding map coordinates](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 
-
+## Remote Sensing Basics
+- [Band Composition for Landsat](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/remote-sensing-basics/understand_band_composite.ipynb)
