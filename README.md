@@ -20,3 +20,6 @@ McKenzie Paul
 
 ## Spatial Analysis
 - [Land for Private Campground and Cholera Deaths](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/spatial_analysis/Week%2010.ipynb) 
+
+## Web-Based Mapping
+- [Explore the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=672a2fb7823a4488a82acc2a660afffe)
