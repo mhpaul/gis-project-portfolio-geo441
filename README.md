@@ -12,7 +12,7 @@ McKenzie Paul
 - [Data Model of Cloquet Vegetation](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/basic%20mapping/cloquet-vegetation.ipynb)
   
 ## Build Selections and Queries
-- [Map the age index based on 2000 census data](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/basic%20mapping/age-index-mapping.ipynb)
+- [Map the age index based on 2000 census data](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/selections-and-queries/age-index-mapping.ipynb)
 
 ## Map Coordinate Basics
 
