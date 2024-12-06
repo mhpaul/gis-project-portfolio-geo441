@@ -9,6 +9,9 @@ McKenzie Paul
 ## Basic Mapping
 
 - [First map in ArcGIS Pro](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/basic%20mapping/first-arc-gis-map.ipynb)
+- [Data Model of Cloquet Vegetation](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/basic%20mapping/cloquet-vegetation.ipynb)
+  
+## Build Selections and Queries
 - [Map the age index based on 2000 census data](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/basic%20mapping/age-index-mapping.ipynb)
 
 ## Map Coordinate Basics
