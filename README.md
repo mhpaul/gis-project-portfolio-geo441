@@ -20,11 +20,11 @@ McKenzie Paul
 
 ## Remote Sensing Basics
 - [Band Composition for Landsat](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/remote-sensing-basics/understand_band_composite.ipynb)
-- [Oxford Topography](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/remote-sensing-basics/oxford-topography.ipynb)
 
 ## Spatial Analysis
 - [Land for Private Campground and Cholera Deaths](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/spatial_analysis/cholera-and-campground-maps.ipynb)
 - [Chloropleth Maps for School Aged Population and African American Health Insurance Coverage in Ohio](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/spatial_analysis/chloropleth-maps-using-census-tract-data.ipynb)
+- [Oxford Topography](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/remote-sensing-basics/oxford-topography.ipynb)
 
 ## Web-Based Mapping
 - [Explore the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=672a2fb7823a4488a82acc2a660afffe)
