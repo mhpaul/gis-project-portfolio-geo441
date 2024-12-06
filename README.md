@@ -20,6 +20,7 @@ McKenzie Paul
 
 ## Remote Sensing Basics
 - [Band Composition for Landsat](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/remote-sensing-basics/understand_band_composite.ipynb)
+- [Oxford Topography](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/remote-sensing-basics/oxford-topography.ipynb)
 
 ## Spatial Analysis
 - [Land for Private Campground and Cholera Deaths](https://github.com/mhpaul/gis-project-portfolio-geo441/blob/main/spatial_analysis/cholera-and-campground-maps.ipynb)
